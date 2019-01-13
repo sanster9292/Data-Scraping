@@ -1,0 +1,6 @@
+The purpose of this exercise is to get more acquainted with data scraping as a way of augmenting my skills as a data scientist
+when you need to automate data collection.
+
+
+For this task, I am using a website of quotes which was made for the purpose of data scraping. So far, this website has 10 
+pages. I will loop over them, scrape them and store the quotes and authors in a Pandas dataframe
