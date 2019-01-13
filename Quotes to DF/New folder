@@ -1,0 +1,2 @@
+
+I am scarping http://quotes.toscrape.com/ to scrape the authors, quotes and store them in a pandas dataframe
